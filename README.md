@@ -20,3 +20,5 @@ Histogram of an RGB Image
 Graphical Representation of Histogram Equalization
 
  <img src="https://miro.medium.com/max/431/1*PWPxuPXr1CrRgJGo8vMH_g.jpeg" alt="Image"> 
+
+<h2>Comparison of Original and Histogram Equalized Histograms</h2>
