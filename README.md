@@ -22,3 +22,5 @@ Graphical Representation of Histogram Equalization
  <img src="https://miro.medium.com/max/431/1*PWPxuPXr1CrRgJGo8vMH_g.jpeg" alt="Image"> 
 
 <h2>Comparison of Original and Histogram Equalized Histograms</h2>
+
+ <img src="https://miro.medium.com/max/794/1*L7s0Vj-tyCoTS9PkBKcrkw.jpeg" alt="Image">  <img src="https://miro.medium.com/max/796/1*Ew71Mghg4qq4umogH-_w3Q.jpeg" alt="Image"> 
