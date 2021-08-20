@@ -7,6 +7,8 @@
 
 Histogram of an Image
 
+ <img src="https://miro.medium.com/max/788/1*GCQn_KaJobChuZknKEUvlw.png" alt="Image"> 
+
 As we can see in the image above, the X-axis represents the pixel intensity levels of the image. The intensity level usually ranges from 0 to 255. For a gray-scale image, there is only one histogram, whereas an RGB colored image will have three 2-D histograms — one for each color. The Y-axis of the histogram indicates the frequency or the number of pixels that have specific intensity values.
 Histogram of a Gray-Scale Image
 Histogram of an RGB Image
@@ -16,3 +18,5 @@ Histogram of an RGB Image
 ```Histogram Equalization is an image processing technique that adjusts the contrast of an image by using its histogram. To enhance the image’s contrast, it spreads out the most frequent pixel intensity values or stretches out the intensity range of the image. By accomplishing this, histogram equalization allows the image’s areas with lower contrast to gain a higher contrast.```
 
 Graphical Representation of Histogram Equalization
+
+ <img src="https://miro.medium.com/max/431/1*PWPxuPXr1CrRgJGo8vMH_g.jpeg" alt="Image"> 
