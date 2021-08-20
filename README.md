@@ -1,1 +1,1 @@
-# Histogram-Construction-Equalization-Matching-Comparison
+## Histogram Equalization & Contrast Stretching
